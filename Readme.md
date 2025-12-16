@@ -16,7 +16,7 @@
 
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
-### El paso fundamental es eliminar la rama anterior y añadirle la nueva direccion al tu propio repositorio.
+### El paso fundamental es eliminar la rama anterior y añadirle la nueva direccion a tu propio repositorio, con el comando 'git remote remove origin' y 'git remote add origin' y la URL de tu repositorio.
 ![cap1](imagen/cap1.png)
 
 ### Apartado 2
